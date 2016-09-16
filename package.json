@@ -1,5 +1,5 @@
 {
-  "name": "fh-mbaas-api",
+  "name": "fh-mbaas-api-am",
   "version": "5.13.11",
   "description": "FeedHenry MBAAS Cloud APIs",
   "main": "lib/api.js",
